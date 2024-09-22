@@ -1,5 +1,7 @@
-## Hi there 👋
-
+I'm Derya,
+I was born in 2006
+I'm currently learning computer science
+I'm a freshman at Bilkent University
 <!--
 **deryyapolat/deryyapolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
